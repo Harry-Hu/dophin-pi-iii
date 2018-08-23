@@ -1,6 +1,8 @@
 # dophin-pi-iii
 Linux platform for Dophin-pi-iii use V3S Soc
 
+https://item.taobao.com/item.htm?spm=a230r.1.14.1.53ad53d9Qxy0mS&id=567313314416&ns=1&abbucket=7#detail
+
 CPU
 
 • ARM Cortex™-A7
