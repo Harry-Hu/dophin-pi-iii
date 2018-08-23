@@ -3,6 +3,7 @@ Linux platform for Dophin-pi-iii use V3S Soc
 
 CPU
 • ARM Cortex™-A7
+
 Memory
 • Integrated 64MB DRAM 
 Audio Codec
